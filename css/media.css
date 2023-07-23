@@ -1,0 +1,45 @@
+@media only screen and (max-width:576px){
+    .d-img{
+        display: none;
+    }
+   
+    .mobil-img{
+        display: block;
+    }
+    .mouse{
+        justify-content: center !important;
+    }
+    .border-img2{
+        position: absolute;
+        top:102%;
+    }
+    .border-img3{
+        position: absolute;
+        top:102%;
+        left: 35%;
+    }
+    .border-img4{
+        position: absolute;
+        top:102%;
+        left: 15%;
+    }
+   
+    .pr-about{
+        border: 1px solid;
+        width: 350px !important;
+        text-align: start;
+    }
+   .add-out{
+    width: 100%;
+    height: 100%;
+   }
+   .border-img{
+    margin: auto;
+   }
+   .pr-tag{
+    margin: auto;
+   }
+   .small-img{
+    margin: auto;
+   }
+}
